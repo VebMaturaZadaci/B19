@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<p>Tekst na latinici:</p>
+<form method="post">
+<textarea asp-for="RecLat">@Model.RecLat</textarea><br />
+<button type="submit" asp-page-handler="PrCir" >Prevedi na cirilicu</button>
+</form>
+<hr/>
+<p>Tekst na cirilici:</p>
+<form method="post">
+<textarea asp-for="RecCir">@Model.RecCir</textarea><br />
+<button type="submit" asp-page-handler="PrLat">Prevedi na latinicu</button>
+</form>

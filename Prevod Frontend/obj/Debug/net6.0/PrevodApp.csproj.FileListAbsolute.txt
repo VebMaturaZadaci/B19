@@ -1,0 +1,66 @@
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\appsettings.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\PrevodApp.staticwebassets.runtime.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\PrevodApp.exe
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\PrevodApp.deps.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\PrevodApp.runtimeconfig.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\PrevodApp.pdb
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.csproj.AssemblyReference.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.AssemblyInfoInputs.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.AssemblyInfo.cs
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.csproj.CoreCompileInputs.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.RazorAssemblyInfo.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.RazorAssemblyInfo.cs
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.PrevodApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PrevodApp.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PrevodApp.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PrevodApp.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\scopedcss\bundle\PrevodApp.styles.css
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\scopedcss\projectbundle\PrevodApp.bundle.scp.css
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.csproj.CopyComplete
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\refint\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.pdb
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\PrevodApp.genruntimeconfig.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\PrevodApp\obj\Debug\net6.0\ref\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\appsettings.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\PrevodApp.staticwebassets.runtime.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\PrevodApp.exe
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\PrevodApp.deps.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\PrevodApp.runtimeconfig.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\PrevodApp.pdb
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.csproj.AssemblyReference.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.AssemblyInfoInputs.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.AssemblyInfo.cs
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.csproj.CoreCompileInputs.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.RazorAssemblyInfo.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.RazorAssemblyInfo.cs
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.PrevodApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PrevodApp.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PrevodApp.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PrevodApp.props
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\scopedcss\bundle\PrevodApp.styles.css
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\scopedcss\projectbundle\PrevodApp.bundle.scp.css
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.csproj.CopyComplete
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\refint\PrevodApp.dll
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.pdb
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\PrevodApp.genruntimeconfig.cache
+C:\Users\mlade\OneDrive\Documents\Skola\Endava\B19 prevodjenje1\PrevodApp\obj\Debug\net6.0\ref\PrevodApp.dll
